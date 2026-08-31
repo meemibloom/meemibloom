@@ -291,3 +291,7 @@ section + section{border-top:1px solid var(--line)}
   #lb-prev{left:0}
   #lb-next{right:0}
 }
+
+/* ---------- footer fixes ---------- */
+.site-foot .colophon{display:block}          /* stop it inheriting the 3-column grid */
+.site-foot .brand{border-bottom:0}           /* the wordmark is not a text link */
