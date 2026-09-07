@@ -22,6 +22,8 @@
 ------------------------------------------------------------------ */
 
 window.MEEMI_PHOTOS = [
+  { src: "assets/photos/bouquet-07.jpg", title: "Black, grey and white lilies" },
+  { src: "assets/photos/bouquet-06.jpg", title: "Sky blue and gold" },
   { src: "assets/photos/bouquet-01.jpg", title: "Red tulips and amaryllis" },
   { src: "assets/photos/bouquet-02.jpg", title: "Pink lilies" },
   { src: "assets/photos/bouquet-03.jpg", title: "Pink tulips" },
